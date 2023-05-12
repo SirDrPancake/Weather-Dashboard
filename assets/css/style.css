@@ -4,3 +4,9 @@ nav {
     font-size: 300%;
     font-weight: bold;
   }
+
+.weather {
+    text-align:right;
+    font-weight: bold;
+    border-color: black;
+  }
